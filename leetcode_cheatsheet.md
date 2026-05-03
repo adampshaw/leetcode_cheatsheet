@@ -1,9 +1,9 @@
-# ⚡ LeetCode Master Cheatsheet
+# LeetCode Master Cheatsheet
 > *The only sheet you review before an interview.*
 
 ---
 
-## 🐍 1. Python Quick Reference
+## 1. Python Quick Reference
 
 ### Slicing
 | Syntax | Meaning |
@@ -114,7 +114,7 @@ None comparisons: Use `is None`, not `== None`.
 
 ---
 
-## 🧠 2. Problem Pattern Recognition
+## 2. Problem Pattern Recognition
 
 | Keyword / Clue | Pattern | Notes |
 |---|---|---|
@@ -149,7 +149,7 @@ None comparisons: Use `is None`, not `== None`.
 
 ---
 
-## 🔁 3. Core DSA Patterns
+## 3. Core DSA Patterns
 
 ### Sliding Window
 **Use:** Contiguous subarray/substring; optimize over a range.
@@ -557,7 +557,7 @@ while heap:
 
 ---
 
-## 🧩 5. Common Problem Archetypes
+## 5. Common Problem Archetypes
 
 | Archetype | Approach(es) | Key Insight |
 |---|---|---|
@@ -582,7 +582,7 @@ while heap:
 
 ---
 
-## 🧱 6. Templates to Memorize
+## 6. Templates to Memorize
 
 ### BFS
 ```python
@@ -732,7 +732,7 @@ Not including 0 in dp initialization (off-by-one in dp size)
 
 ---
 
-## 🚀 8. Interview Strategy
+## 8. Interview Strategy
 
 ### Live Problem Solving (Step-by-Step)
 ```
@@ -805,7 +805,7 @@ Not including 0 in dp initialization (off-by-one in dp size)
 
 ---
 
-## 🧪 9. Edge Case Checklist
+## 9. Edge Case Checklist
 
 Before coding, ask yourself:
 ```
@@ -828,7 +828,7 @@ Before coding, ask yourself:
 
 ---
 
-## 🔥 10. Advanced Insights
+## 10. Advanced Insights
 
 ### When Patterns Overlap
 ```
@@ -916,5 +916,3 @@ Master these → cover ~80% of interview problems:
 ```
 
 ---
-
-*Built for speed. Reviewed before every interview. Good luck. ⚡*
