@@ -525,7 +525,7 @@ while heap:
 
 ---
 
-## ⏱️ 4. Time & Space Complexity
+## 4. Time & Space Complexity
 
 ### Common Operations
 | Operation | Array | Dict/Set | Heap | Sorted Array |
