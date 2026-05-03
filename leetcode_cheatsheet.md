@@ -684,7 +684,7 @@ def subarray_sum_k(nums, k):
 
 ---
 
-## ⚠️ 7. Common Mistakes & Traps
+## 7. Common Mistakes & Traps
 
 ### Off-By-One
 ```
